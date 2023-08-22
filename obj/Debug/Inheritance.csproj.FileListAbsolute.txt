@@ -1,0 +1,14 @@
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\bin\Debug\Inheritance.exe.config
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\bin\Debug\Inheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\bin\Debug\Inheritance.pdb
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\obj\Debug\Inheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\Inheritance - Abstract\Inheritance\obj\Debug\Inheritance.pdb
